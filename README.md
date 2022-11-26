@@ -13,7 +13,7 @@ O objetivo é fazer análise de dados a fim de responder as seguintes questões:
 
 Questões extras sugeridas:
 
-- 3 Em quais países as fugas de helicópteto tem maior chance de sucesso?
+- 3 Em quais países as fugas de helicóptero tem maior chance de sucesso?
 - 4 Como o número de fugitivos afeta o sucesso?
 - 5 Quais fugitivos fizeram isso mais de uma vez?
 
